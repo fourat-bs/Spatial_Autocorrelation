@@ -1,10 +1,11 @@
 # Preview
 This notebook is an academic mini-project  to apply aquired knowledge in  Big data course  with the suitable tools.
 ## About the Dataset 📖
-1 million row of air quality data in Germany provided on request 
+1 million row of air quality data in Germany. 
 > Data mesuring date  : january 2019
+> Dataset is private and provided on request.
 ## Goal 🛬
-Implement Getis-Ord Gi* statistic to detect cold and hot spots using Apache Spark for air quality analytics in Germany
+Implement Getis-Ord Gi* statistic to detect cold and hot spots using Apache Spark for air quality analytics in Germany. Results are demonstrative ie the data set used includes a million of measurements. accurate results will be obtained with full dataset
 
 ## Business understanding 
 ### ***Spatial autocorrelation***
